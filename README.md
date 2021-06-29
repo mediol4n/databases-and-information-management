@@ -1,4 +1,4 @@
-# databases-and-information-systems
+# databases-and-information-management
 
 
-Solutions of tasks from the course Databases and information systems. 
+Solutions of tasks from the course Databases and information management. 
