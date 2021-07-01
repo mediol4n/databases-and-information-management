@@ -3,4 +3,4 @@
 
 
 
-Work with csv files in any programming language. I used Python and used the Pandas library. Installation: pip install pandas
+Work with csv files in any programming language. I used Python and Pandas library. Installation: pip install pandas
